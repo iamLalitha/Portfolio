@@ -3,6 +3,7 @@ import emailjs from '@emailjs/browser';
 import { BsFillTelephoneFill} from "react-icons/bs";
 import { GrMail} from "react-icons/gr";
 import contact from '../contact.jpg';
+import Footer from './Footer';
 
 function Contact () {
   const form = useRef();
@@ -99,10 +100,11 @@ function Contact () {
         </div>
 
       </div>
-        {/* Footer */}
-        <div className="text-center mt-4">
+       
+        {/* <div className="text-center mt-4">
         <p>Made with 💜 by Lalitha</p>
-      </div>
+      </div> */}
+      <Footer/>
   
     </div>
   );
