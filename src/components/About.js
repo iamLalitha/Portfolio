@@ -60,7 +60,7 @@ function About() {
           <li>Contributed to a MERN-based project, demonstrating proficiency in modern web development technologies and creating dynamic, responsive web applications. </li>
         </p>
         <p><a
-              href='https://github.com/iamLalitha'
+              href='https://www.guvi.in/verify-certificate?id=eg6fFt2Kr4390414J2'
               className='btn btn-dark'
               style={{ backgroundColor: '#6b85db' }}
             >
