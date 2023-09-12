@@ -24,7 +24,7 @@ function Home() {
           </p>
           <div className='mt-4'>
             <a
-              href='https://www.linkedin.com/in/lalitha-ramachandran-9b55941a2/'
+              href='https://www.linkedin.com/in/lalithambiga-r-9b55941a2/'
               className='btn btn-dark me-3'
               style={{ backgroundColor: '#6b85db' }}
             >
