@@ -45,10 +45,12 @@ function Projects() {
                   <h5 className='card-title'>{project.title}</h5>
                   <p className='card-text'>{project.description}</p>
                   <div className='d-flex justify-content-between'>
-                    <a href={project.liveUrl} className='btn btn-primary' style={{ backgroundColor: '#6b85db' }} >
+                    <a href={project.liveUrl} className='btn btn-primary' style={{ backgroundColor: '#6b85db' }}  target='_blank'
+                      rel='noreferrer' >
                       Live URL
                     </a>
-                    <a href={project.githubUrl} className='btn btn-dark' style={{ backgroundColor: '#6b85db' }} >
+                    <a href={project.githubUrl} className='btn btn-dark' style={{ backgroundColor: '#6b85db' }}  target='_blank'
+                      rel='noreferrer' >
                       GitHub
                     </a>
                   </div>
