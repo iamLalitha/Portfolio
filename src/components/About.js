@@ -54,15 +54,17 @@ function About() {
       </div>
        
       <div>
-        <p><span style={{fontSize:"19px", fontWeight:'bold'}}>Intern at GUVI Geek Network (Mar 2023 - Present)</span></p>
+        <p><span style={{fontSize:"19px", fontWeight:'bold'}}>Full Stack Developer Program at GUVI Geek Network (Apr 2023 - July 2023)</span></p>
         <p><span style={{fontSize:"15px",fontWeight:'bold'}}> -Chennai(IITM Research Park)</span></p>
         <p>
-          <li>Contributed to a MERN-based project, demonstrating proficiency in modern web development technologies and creating dynamic, responsive web applications. </li>
+          <li>I completed a comprehensive Full Stack Development course, specializing in the MERN stack. During the course, I successfully undertook various projects and tasks, honing my skills in both front-end and back-end development. I proudly earned a certificate, reflecting my commitment to mastering the art of building robust web applications.</li>
         </p>
         <p><a
               href='https://www.guvi.in/verify-certificate?id=eg6fFt2Kr4390414J2'
               className='btn btn-dark'
               style={{ backgroundColor: '#6b85db' }}
+              target='_blank'
+              rel='noreferrer'
             >
               View Certificate
             </a></p>

@@ -27,6 +27,8 @@ function Home() {
               href='https://www.linkedin.com/in/lalithambiga-r-9b55941a2/'
               className='btn btn-dark me-3'
               style={{ backgroundColor: '#6b85db' }}
+              target='_blank'
+              rel='noreferrer'
             >
               View LinkedIn
             </a>
@@ -34,6 +36,8 @@ function Home() {
               href='https://github.com/iamLalitha'
               className='btn btn-dark'
               style={{ backgroundColor: '#6b85db' }}
+              target='_blank'
+              rel='noreferrer'
             >
               View GitHub
             </a>
