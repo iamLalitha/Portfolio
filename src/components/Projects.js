@@ -2,7 +2,9 @@ import React from 'react';
 import RecipeApp from '../RecipeApp.PNG';
 import projecturl from '../projecturl.PNG';
 import qrcodegenerator from '../qrcodegenerator.PNG';
+import weatherapp from '../weatherapp.PNG';
 import './Projects.css';
+
 
 function Projects() {
   const projects = [
@@ -13,7 +15,7 @@ function Projects() {
       liveUrl: 'https://animated-mandazi-ef27ca.netlify.app/',
       githubUrl: 'https://github.com/iamLalitha/Recipe-Management-frontend',
     },
-    {
+   {
       title: 'ShortLinkr',
       image: projecturl, 
       description: 'I have developed a streamlined URL Shortener application using the MERN stack, named ShortLinkr. This innovative tool empowers users to effortlessly condense lengthy URLs into concise, shareable links. Enhance your online experience with ShortLinkr, the ultimate solution for efficient link management.',
@@ -27,6 +29,13 @@ function Projects() {
       liveUrl: 'https://stellar-mousse-fa6f7f.netlify.app/',
       githubUrl: 'https://github.com/iamLalitha/QR-code-generator',
     },
+    {
+      title: 'Weather App',
+      image: weatherapp, 
+      description: 'This weather app allows users to search for weather information by entering the name of a city. It displays real-time weather data, including temperature, rain conditions, wind speed, and more, in an interactive card format. The background dynamically changes based on the temperature to enhance the user experience.',
+      liveUrl: 'https://grand-naiad-88dfa9.netlify.app/',
+      githubUrl: 'https://github.com/iamLalitha/WeatherApp',
+    }
   ];
 
   return (
