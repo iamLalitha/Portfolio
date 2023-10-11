@@ -17,10 +17,10 @@ function Home() {
             </h1>
           </div>
           <p>
-            <span style={{fontSize:'18px', fontWeight:'bold', color:'#6b85db'}}>I'm a MERN Stack Developer & Frontend Developer. </span>
+            <span style={{fontSize:'18px', fontWeight:'bold', color:'#6b85db'}}>I'm a MERN Stack & Frontend Developer. </span>
             I'm passionate about staying on the cutting edge of technology and tools.
             I thrive on tackling intricate problems and finding innovative solutions. 
-             With a focus on sustainability and scalability, you can count on me to contribute to your company's success and help achieve its goals.
+            With a focus on sustainability and scalability, you can count on me to contribute to your company's success and help achieve its goals.
           </p>
           <div className='mt-4'>
             <a
